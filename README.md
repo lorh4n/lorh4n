@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorh4n)](https://github.com/lorh4n/github-readme-stats)
 
 <!--
 **lorh4n/lorh4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
